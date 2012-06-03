@@ -1,0 +1,1 @@
+This is first app learning @ http://railstutorial.org/
